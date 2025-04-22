@@ -1,0 +1,33 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Android built files
+/build
+/captures
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Gradle files
+.gradle/
+**/build/
+**/captures/
+**/outputs/
+gradle-app.setting
+
+# Keystore files
+*.jks
+*.keystore
+
+# NDK
+obj/
+
+# Miscellaneous
+*.log
+*.swp
+*.swo
